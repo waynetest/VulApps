@@ -1,7 +1,7 @@
 FROM tomcat:8-jre8
-MAINTAINER 0x0keeper@gmail.com
+MAINTAINER Medici.Yan@Gmail.com
 
-ENV WAR_URL http://vulapps.xuanbo.cc/s/struts2/struts2/S2-008.war
+ENV WAR_URL http://vulapps.xuanbo.cc/s/struts2/struts2/s2-057.war
 
 WORKDIR /tmp
 
